@@ -5,3 +5,7 @@
 ## 0.0.2
 
 * Added readme image and changelog.
+
+## 0.0.3
+
+* Fixed pub.dev image.

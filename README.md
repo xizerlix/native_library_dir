@@ -2,6 +2,8 @@
 
 native_library_dir is a plugin for Flutter, it does only one thing, returns the path to native library directory on android devices. For some reason "Application Library" is not realized in path_provider, so here is the solution.
 
+![now you can!](https://github.com/xizerlix/native_library_dir/tree/master/img/now_you_can.png)
+
 ## How to
 
 - Add plugin to your project

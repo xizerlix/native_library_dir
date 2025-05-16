@@ -1,6 +1,6 @@
 name: native_library_dir
 description: "Get native lib path on android"
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/xizerlix/native_library_dir
 license: MIT
 

@@ -9,3 +9,7 @@
 ## 0.0.3
 
 * Fixed pub.dev image.
+
+## 0.0.4
+
+* Readme inprovement.
